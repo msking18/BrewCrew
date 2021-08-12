@@ -1,6 +1,6 @@
 # brew_crew
 
-Firebase authentication implementation
+Firebase authentication implementation and data storage for a dynamic android application
 
 ## Brew Crew
 
